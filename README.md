@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olamide Jimoh</h1>
 <h3 align="center">A Passionate Frontend Developer and UI/UX Designer</h3>
 
-- 🔭 I’m currently working on [Finanzen](https://olathedevguy.github.io/finanzen/)
+- 🔭 I’m currently working on [e-comm-product-page](https://github.com/Olathedevguy/E-commerce-product-page)
 
 - 🌱 I’m currently learning **JavaScript**
 
