@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [e-comm-product-page](https://github.com/Olathedevguy/E-commerce-product-page)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.JS**
 
 - 👯 I’m looking to collaborate on **Web and Design Projects**
 
