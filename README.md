@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olamide Jimoh</h1>
 <h3 align="center">A Passionate Frontend Developer and UI/UX Designer</h3>
 
-- 🔭 I’m currently working on [e-comm-product-page](https://github.com/Olathedevguy/E-commerce-product-page)
+- 🔭 I’m currently working on [Brainwave](https://brainwave-rho-eight.vercel.app/)
+  
+- repo for Brainwave: [Brainwave-repo](https://github.com/Olathedevguy/Brainwave)
 
 - 🌱 I’m currently learning **React.JS**
 
