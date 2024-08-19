@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spotify-Clone](https://github.com/Olathedevguy/Spotify-Clone)
   
-- Hosted site for Spotify-Clone [Spotify-clone-site]([https://github.com/Olathedevguy/Brainwave]([https://spotify-clone-sigma-ivory.vercel.app/])
+- Hosted site for Spotify-Clone: [site](https://spotify-clone-sigma-ivory.vercel.app/)
 
 - 🌱 I’m currently learning **React.JS**
 
