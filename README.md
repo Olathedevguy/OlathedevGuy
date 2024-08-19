@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olamide Jimoh</h1>
 <h3 align="center">A Passionate Frontend Developer and UI/UX Designer</h3>
 
-- 🔭 I’m currently working on [Spotify-Clone]((https://github.com/Olathedevguy/Spotify-Clone))
+- 🔭 I’m currently working on [Spotify-Clone]([https://github.com/Olathedevguy/Spotify-Clone])
   
-- Hosted site for Spotify-Clone [Spotify-clone-site]([https://github.com/Olathedevguy/Brainwave](https://spotify-clone-sigma-ivory.vercel.app/))
+- Hosted site for Spotify-Clone [Spotify-clone-site]([https://github.com/Olathedevguy/Brainwave](https://spotify-clone-sigma-ivory.vercel.app/])
 
 - 🌱 I’m currently learning **React.JS**
 
