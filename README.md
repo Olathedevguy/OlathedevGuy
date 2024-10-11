@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Olamide Jimoh</h1>
 <h3 align="center">A Passionate Frontend Developer and UI/UX Designer</h3>
 
-- 🔭 I’m currently working on [Spotify-Clone](https://github.com/Olathedevguy/Spotify-Clone)
+- 🔭 I’m currently working on [Sharp](https://github.com/Olathedevguy/Sharp)
   
-- Hosted site for Spotify-Clone: [site](https://spotify-clone-sigma-ivory.vercel.app/)
+- [Live Website](https://github.com/Olathedevguy/Sharp)
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Firebase🔥**
 
-- 👯 I’m looking to collaborate on **Web and Design Projects**
+- 👯 I’m looking to collaborate on **Web Development and Design Projects**
 
 - 🤝 I’m looking to meet **new people in my field**
 
