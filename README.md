@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olamide Jimoh</h1>
 <h3 align="center">A Passionate Frontend Developer and UI/UX Designer</h3>
 
-- 🔭 I’m recently worked on [Sharp](https://github.com/Olathedevguy/Sharp)
+- 🔭 I recently worked on [Sharp](https://github.com/Olathedevguy/Sharp)
   
 - [Live Website](https://github.com/Olathedevguy/Sharp)
 
