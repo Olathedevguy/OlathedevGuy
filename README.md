@@ -5,7 +5,7 @@
   
 - [Live Website](https://github.com/Olathedevguy/Sharp)
 
-- 🌱 I’m currently learning **Firebase🔥**
+- 🌱 I’m currently learning **NODEJS , EXPRESSJS AN MONGODB🍃**
 
 - 👯 I’m looking to collaborate on **Web Development and Design Projects**
 
